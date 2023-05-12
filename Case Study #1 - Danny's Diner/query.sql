@@ -2,11 +2,6 @@
 --CASE STUDY QUESTIONS--
 ------------------------
 
---Author: Anh Nguyen
---Date: 05/11/2022
---Tool used: SQL Server
-
-
 -- 1. What is the total amount each customer spent at the restaurant?
 
 SELECT 
